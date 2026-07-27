@@ -1,0 +1,21 @@
+generated: '2026-07-19'
+method: searched
+source: https://giftr.my/.well-known/
+host: https://giftr.my
+note: >-
+  giftr.my runs on Shopify; the OAuth/OIDC discovery documents describe
+  Shopify's customer-account authentication surface (issuer
+  https://shopify.com/authentication/14282106), not a first-party HelprNow API.
+documents:
+- path: /.well-known/openid-configuration
+  status: 200
+  file: helprnow-openid-configuration.json
+- path: /.well-known/oauth-authorization-server
+  status: 200
+  file: helprnow-oauth-authorization-server.json
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
