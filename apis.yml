@@ -9,6 +9,17 @@ description: >-
   than a developer API program; the only machine-discoverable interfaces are Shopify's customer-account
   OAuth2/OpenID Connect endpoints served under giftr.my/.well-known/. Backed by 500 Global; profiled
   in the API Evangelist network as a portfolio lead.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
