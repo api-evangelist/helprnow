@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/helprnow/integrations
+- https://n8n.io/integrations/helprnow/
+- https://composio.dev/toolkits/helprnow
+- https://monid.ai/tools/helprnow
+checked:
+- https://composio.dev/toolkits/helprnow
+- https://monid.ai/tools/helprnow
+- https://n8n.io/integrations/helprnow/
+- https://zapier.com/apps/helprnow/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
